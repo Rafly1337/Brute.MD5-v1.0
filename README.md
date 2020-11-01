@@ -24,7 +24,7 @@ $ Install latest python 3.x
 $ git clone https://github.com/Rafly1337/Brute.MD5-v1.0.git
 
 # Go into the repository
-$ cd brute-md5
+$ cd Brute.MD5-v1.0
 
 # Installing dependencies
 $ python -m pip install pyfiglet argparse
