@@ -15,41 +15,6 @@
 </p>
 
 
-<p align="center">
-  Advanced, Light Weight &amp; Extremely Fast MD5 Cracker/Decoder/Decryptor written in Python 3
-</p>
-              
-                        This small python script can do really awesome work.
-
-## Disclaimer
-<p align="center">
-  :computer: This project was created only for good purposes and personal use.
-</p>
-
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
-
-## Features
-- [x] Works on Windows/Linux/OSx etc which supports Python 3
-- [x] Advanced, Lightweight, Easy to use
-- [x] Based on BruteForce Technique
-- [x] Saves the Result in .txt file
-- [x] Shows total attempts made by Cracker
-- [x] Automatically Stops the Script When Correct Password is Found
-- [x] Zero Dependencies (Except Working Python & Good Wordlist)
-- [x] Cracks with 200 word/sec Speed with 2GB Ram & Ordinary Pentium Processor 
-- [x] Codes are easy to read & understand
-
-## Tested On
-[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
-
-[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 8.1 - Pro**
-
-[![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 7 - Ultimate**
-
-## Prerequisite
-- [x] Python 3.X  
-  #### Recommended 3.7.3 because I'm Using that version
-
 ## How To Use in Linux
 ```bash
 # Install dependencies 
@@ -97,16 +62,6 @@ $ python brute_md5.py -p 99003a570e9267d585eaebeb63d51337 -w passwd.txt -o hash.
 
 #### Result Got Saved in .txt file 
 ![](/img/4.saved_result_txt.png)
-
-## Contributors:
-Currently this repo is maintained by me (Pushpender Singh).
-
-All contributor's pull request will be accepted if their pull request is worthy for this repo.
-
-## TODO
-- [ ] Add new features
-- [ ] Contribute GUI
-- [ ] Add New Hash Cracking Function
 
 ## Contact 
 twiter.com/raflyghost
