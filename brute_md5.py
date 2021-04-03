@@ -1,4 +1,4 @@
-# Code By RaflyXGanZ greetz to all 22xc members..
+# greetz to all 22xc members..
 # Author RaflyXGanZ
 # ngotak anjing kalo mau rekod
 
